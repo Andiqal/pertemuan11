@@ -4,7 +4,7 @@ public class Const {
     public static final String BASE_URL_MOVIE = "http://api.themoviedb.org/3/movie/";
     public static final String BASE_URL_TV = "http://api.themoviedb.org/3/tv/";
     public static final String BASE_URL_DETAIL = "http://api.themoviedb.org/3/";
-    public static final String API_KEY = "35c5a75a379a7127fdb020ad33e74d68";
+    public static final String API_KEY = "0ef404c17d5ab32d125be8b3ebadc47f";
     public static final String IMG_URL_ORI = "https://image.tmdb.org/t/p/original/";
     public static final String IMG_URL_200 = "https://image.tmdb.org/t/p/w200/";
     public static final String IMG_URL_300 = "https://image.tmdb.org/t/p/w300/";
